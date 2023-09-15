@@ -1,9 +1,6 @@
 # Analise de Dados com Pandas
 Reprodução da aula: Análise de Dados com Pandas na plataforma Udemy
 
-Bem-vindo ao nosso Curso de Análise de Dados com Pandas!
-
-Você já se perguntou como os cientistas de dados e analistas transformam dados brutos em informações valiosas? Se sim, então você está prestes a descobrir os segredos por trás dessa magia! Neste curso, mergulharemos em uma emocionante jornada pelo universo da ciência dos dados com a poderosa biblioteca Pandas.
 
 Pandas é uma ferramenta essencial no kit de qualquer profissional de análise de dados, pois oferece uma gama de recursos poderosos para manipulação, limpeza e exploração de dados. Ao longo do curso, você aprenderá desde os conceitos fundamentais até técnicas avançadas de análise de dados com Pandas.
 
@@ -15,9 +12,8 @@ Além disso, exploraremos visualizações de dados incríveis! Utilizaremos a in
 
 Este curso é projetado para atender a todos, independentemente do seu nível de conhecimento em análise de dados. Se você é um iniciante buscando compreender os conceitos fundamentais ou um profissional experiente buscando aprimorar suas habilidades, o Curso de Análise de Dados com Pandas é perfeito para você.
 
-Então, junte-se a nós nessa jornada emocionante e torne-se um mestre da análise de dados com Pandas. Vamos começar!
+Conteúdo:
 
-O que você aprenderá
 Realizar análise exploratória de dados
 Construir filtros, agrupamentos, join e concat de dados
 Construir diferentes tipos de gráficos
